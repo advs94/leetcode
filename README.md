@@ -23,6 +23,7 @@ LeetCode
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](./algorithms/java/src/hard/MinimumCostToMakeAtLeastOneValidPathInAGrid/MinimumCostToMakeAtLeastOneValidPathInAGrid.java)|Hard|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/java/src/easy/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/java/src/easy/RomanToInteger/RomanToInteger.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./algorithms/java/src/easy/PalindromeNumber/PalindromeNumber.java)|Easy|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/java/src/easy/TwoSum/TwoSum.java)|Easy|
