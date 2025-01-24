@@ -24,6 +24,7 @@ LeetCode
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](./algorithms/java/src/hard/MinimumCostToMakeAtLeastOneValidPathInAGrid/MinimumCostToMakeAtLeastOneValidPathInAGrid.java)|Hard|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Java](./algorithms/java/src/medium/CountServersThatCommunicate/CountServersThatCommunicate.java)|Medium|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
+|802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/java/src/easy/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/java/src/easy/RomanToInteger/RomanToInteger.java)|Easy|
