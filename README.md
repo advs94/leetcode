@@ -26,6 +26,7 @@ LeetCode
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./algorithms/java/src/easy/ValidParentheses/ValidParentheses.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/java/src/easy/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/java/src/easy/RomanToInteger/RomanToInteger.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./algorithms/java/src/easy/PalindromeNumber/PalindromeNumber.java)|Easy|
