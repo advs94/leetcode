@@ -9,6 +9,7 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Java](./algorithms/java/src/medium/MinimumLengthOfStringAfterOperations/MinimumLengthOfStringAfterOperations.java)|Medium|
 |3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)|[Java](./algorithms/java/src/easy/CountPrefixAndSuffixPairsI/CountPrefixAndSuffixPairsI.java)|Easy|
+|2948|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)|[Java](./algorithms/java/src/medium/MakeLexicographicallySmallestArrayBySwappingElements/MakeLexicographicallySmallestArrayBySwappingElements.java)|Medium|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)|[Java](./algorithms/java/src/medium/NeighboringBitwiseXOR/NeighboringBitwiseXOR.java)|Medium|
 |2661|[First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)|[Java](./algorithms/java/src/medium/FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn.java)|Medium|
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./algorithms/java/src/medium/FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArrayOfTwoArrays.java)|Medium|
