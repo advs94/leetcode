@@ -17,6 +17,7 @@ LeetCode
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Java](./algorithms/java/src/easy/NumberOfCommonFactors/NumberOfCommonFactors.java)|Easy|
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|[Java](./algorithms/java/src/medium/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings.java)|Medium|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Java](./algorithms/java/src/easy/CountingWordsWithAGivenPrefix/CountingWordsWithAGivenPrefix.java)|Easy|
+|2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)|[Java](./algorithms/java/src/hard/MaximumEmployeesToBeInvitedToAMeeting/MaximumEmployeesToBeInvitedToAMeeting.java)|Hard|
 |2116|[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[Java](./algorithms/java/src/medium/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid.java)|Medium|
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Java](./algorithms/java/src/medium/MapOfHighestPeak/MapOfHighestPeak.java)|Medium|
