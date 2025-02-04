@@ -42,6 +42,7 @@ LeetCode
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/java/src/easy/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Java](./algorithms/java/src/easy/RomanToInteger/RomanToInteger.java)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Java](./algorithms/java/src/easy/PalindromeNumber/PalindromeNumber.java)|Easy|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Java](./algorithms/java/src/medium/LongestSubstringWithoutRepeatingCharacters/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./algorithms/java/src/easy/TwoSum/TwoSum.java)|Easy|
 
 
