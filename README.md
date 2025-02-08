@@ -21,6 +21,7 @@ LeetCode
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/)|[Java](./algorithms/java/src/medium/MinimizeXOR/MinimizeXOR.java)|Medium|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Java](./algorithms/java/src/easy/NumberOfCommonFactors/NumberOfCommonFactors.java)|Easy|
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|[Java](./algorithms/java/src/medium/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings.java)|Medium|
+|2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Java](./algorithms/java/src/medium/DesignANumberContainerSystem/DesignANumberContainerSystem.java)|Medium|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Java](./algorithms/java/src/easy/CountingWordsWithAGivenPrefix/CountingWordsWithAGivenPrefix.java)|Easy|
 |2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)|[Java](./algorithms/java/src/hard/MaximumEmployeesToBeInvitedToAMeeting/MaximumEmployeesToBeInvitedToAMeeting.java)|Hard|
 |2116|[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[Java](./algorithms/java/src/medium/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid.java)|Medium|
