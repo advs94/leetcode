@@ -31,6 +31,7 @@ LeetCode
 |2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)|[Java](./algorithms/java/src/hard/MaximumEmployeesToBeInvitedToAMeeting/MaximumEmployeesToBeInvitedToAMeeting.java)|Hard|
 |2116|[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[Java](./algorithms/java/src/medium/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid.java)|Medium|
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
+|1910|[Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)|[Java](./algorithms/java/src/medium/RemoveAllOccurrencesOfASubstring/RemoveAllOccurrencesOfASubstring.java)|Medium|
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Java](./algorithms/java/src/easy/MaximumAscendingSubarraySum/MaximumAscendingSubarraySum.java)|Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Java](./algorithms/java/src/easy/CheckIfOneStringSwapCanMakeStringsEqual/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy|
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Java](./algorithms/java/src/medium/MapOfHighestPeak/MapOfHighestPeak.java)|Medium|
