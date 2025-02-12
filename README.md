@@ -27,6 +27,7 @@ LeetCode
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|[Java](./algorithms/java/src/medium/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings.java)|Medium|
 |2364|[Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)|[Java](./algorithms/java/src/medium/CountNumberOfBadPairs/CountNumberOfBadPairs.java)|Medium|
 |2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Java](./algorithms/java/src/medium/DesignANumberContainerSystem/DesignANumberContainerSystem.java)|Medium|
+|2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Java](./algorithms/java/src/medium/MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPairWithEqualSumOfDigits.java)|Medium|
 |2185|[Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/)|[Java](./algorithms/java/src/easy/CountingWordsWithAGivenPrefix/CountingWordsWithAGivenPrefix.java)|Easy|
 |2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)|[Java](./algorithms/java/src/hard/MaximumEmployeesToBeInvitedToAMeeting/MaximumEmployeesToBeInvitedToAMeeting.java)|Hard|
 |2116|[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[Java](./algorithms/java/src/medium/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid.java)|Medium|
