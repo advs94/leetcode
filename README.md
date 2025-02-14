@@ -40,6 +40,7 @@ LeetCode
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./algorithms/java/src/easy/StringMatchingInAnArray/StringMatchingInAnArray.java)|Easy|
 |1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Java](./algorithms/java/src/medium/ConstructKPalindromeStrings/ConstructKPalindromeStrings.java)|Medium|
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](./algorithms/java/src/hard/MinimumCostToMakeAtLeastOneValidPathInAGrid/MinimumCostToMakeAtLeastOneValidPathInAGrid.java)|Hard|
+|1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Java](./algorithms/java/src/medium/ProductOfTheLastKNumbers/ProductOfTheLastKNumbers.java)|Medium|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Java](./algorithms/java/src/medium/CountServersThatCommunicate/CountServersThatCommunicate.java)|Medium|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./algorithms/java/src/hard/MakingALargeIsland/MakingALargeIsland.java)|Hard|
