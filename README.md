@@ -48,6 +48,7 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./algorithms/java/src/easy/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./algorithms/java/src/easy/MergeTwoSortedLists/MergeTwoSortedLists.java)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./algorithms/java/src/easy/ValidParentheses/ValidParentheses.java)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Java](./algorithms/java/src/easy/LongestCommonPrefix/LongestCommonPrefix.java)|Easy|
