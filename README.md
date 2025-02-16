@@ -37,6 +37,7 @@ LeetCode
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Java](./algorithms/java/src/medium/MapOfHighestPeak/MapOfHighestPeak.java)|Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Java](./algorithms/java/src/easy/CheckIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated.java)|Easy|
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Java](./algorithms/java/src/medium/TupleWithSameProduct/TupleWithSameProduct.java)|Medium|
+|1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)|[Java](./algorithms/java/src/medium/ConstructTheLexicographicallyLargestValidSequence/ConstructTheLexicographicallyLargestValidSequence.java)|Medium|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./algorithms/java/src/medium/CourseScheduleIv/CourseScheduleIv.java)|Medium|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./algorithms/java/src/easy/StringMatchingInAnArray/StringMatchingInAnArray.java)|Easy|
 |1400|[Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings/)|[Java](./algorithms/java/src/medium/ConstructKPalindromeStrings/ConstructKPalindromeStrings.java)|Medium|
