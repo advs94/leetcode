@@ -44,6 +44,7 @@ LeetCode
 |1368|[Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)|[Java](./algorithms/java/src/hard/MinimumCostToMakeAtLeastOneValidPathInAGrid/MinimumCostToMakeAtLeastOneValidPathInAGrid.java)|Hard|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Java](./algorithms/java/src/medium/ProductOfTheLastKNumbers/ProductOfTheLastKNumbers.java)|Medium|
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Java](./algorithms/java/src/medium/CountServersThatCommunicate/CountServersThatCommunicate.java)|Medium|
+|1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./algorithms/java/src/hard/MakingALargeIsland/MakingALargeIsland.java)|Hard|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
