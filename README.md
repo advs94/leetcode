@@ -51,6 +51,7 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/src/easy/SearchInsertPosition/SearchInsertPosition.java)|Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Java](./algorithms/java/src/easy/FindTheIndexOfTheFirstOccurrenceInAString/FindTheIndexOfTheFirstOccurrenceInAString.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Java](./algorithms/java/src/easy/RemoveElement/RemoveElement.java)|Easy|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Java](./algorithms/java/src/easy/RemoveDuplicatesFromSortedArray/RemoveDuplicatesFromSortedArray.java)|Easy|
