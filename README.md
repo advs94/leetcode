@@ -51,6 +51,7 @@ LeetCode
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](./algorithms/java/src/hard/RecoverATreeFromPreorderTraversal/RecoverATreeFromPreorderTraversal.java)|Hard|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
+|889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./algorithms/java/src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./algorithms/java/src/hard/MakingALargeIsland/MakingALargeIsland.java)|Hard|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
