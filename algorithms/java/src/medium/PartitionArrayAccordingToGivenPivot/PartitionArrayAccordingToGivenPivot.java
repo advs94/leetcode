@@ -6,15 +6,13 @@ public class PartitionArrayAccordingToGivenPivot {
      */
     public int[] pivotArray(int[] nums, int pivot) {
         final int n = nums.length;
-        final int[] headArr = new int[n], pivotArr = new int[n], tailArr = new int[n];
-        int headCount = 0, pivotCount = 0, tailCount = 0;
-        for (int num : nums) {
-            if (num < pivot) headArr[headCount++] = num;
-            else if (num == pivot) pivotArr[pivotCount++] = num;
-            else tailArr[tailCount++] = num;
+        final int[] pivotArr = new int[n];
+        int left = 0, right = n-1;
+        for (int i = left, j = right; i < n; i++, j--) {
+            if (nums[i] < pivot) pivotArr[left++] = nums[i];
+            if (nums[j] > pivot) pivotArr[right--] = nums[j];
         }
-        System.arraycopy(pivotArr, 0, headArr, headCount, pivotCount);
-        System.arraycopy(tailArr, 0, headArr, headCount + pivotCount, tailCount);
-        return headArr;
+        for (int i = left; i <= right; i++) pivotArr[i] = pivot;
+        return pivotArr;
     }
 }
