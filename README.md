@@ -42,6 +42,7 @@ LeetCode
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
 |1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)|[Java](./algorithms/java/src/medium/FindUniqueBinaryString/FindUniqueBinaryString.java)|Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Java](./algorithms/java/src/easy/ConcatenationOfArray/ConcatenationOfArray.java)|Easy|
+|1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Java](./algorithms/java/src/easy/BuildArrayFromPermutation/BuildArrayFromPermutation.java)|Easy|
 |1910|[Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)|[Java](./algorithms/java/src/medium/RemoveAllOccurrencesOfASubstring/RemoveAllOccurrencesOfASubstring.java)|Medium|
 |1800|[Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Java](./algorithms/java/src/easy/MaximumAscendingSubarraySum/MaximumAscendingSubarraySum.java)|Easy|
 |1790|[Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/)|[Java](./algorithms/java/src/easy/CheckIfOneStringSwapCanMakeStringsEqual/CheckIfOneStringSwapCanMakeStringsEqual.java)|Easy|
