@@ -26,6 +26,7 @@ LeetCode
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./algorithms/java/src/medium/FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArrayOfTwoArrays.java)|Medium|
 |2579|[Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[Java](./algorithms/java/src/medium/CountTotalNumberOfColoredCells/CountTotalNumberOfColoredCells.java)|Medium|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)|[Java](./algorithms/java/src/easy/MergeTwo2dArraysBySummingValues/MergeTwo2dArraysBySummingValues.java)|Easy|
+|2523|[Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/)|[Java](./algorithms/java/src/medium/ClosestPrimeNumbersInRange/ClosestPrimeNumbersInRange.java)|Medium|
 |2493|[Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)|[Java](./algorithms/java/src/hard/DivideNodesIntoTheMaximumNumberOfGroups/DivideNodesIntoTheMaximumNumberOfGroups.java)|Hard|
 |2467|[Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[Java](./algorithms/java/src/medium/MostProfitablePathInATree/MostProfitablePathInATree.java)|Medium|
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Java](./algorithms/java/src/easy/ApplyOperationsToAnArray/ApplyOperationsToAnArray.java)|Easy|
