@@ -8,6 +8,7 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Java](./algorithms/java/src/medium/MinimumLengthOfStringAfterOperations/MinimumLengthOfStringAfterOperations.java)|Medium|
+|3208|[Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)|[Java](./algorithms/java/src/medium/AlternatingGroupsIi/AlternatingGroupsIi.java)|Medium|
 |3174|[Clear Digits](https://leetcode.com/problems/clear-digits/)|[Java](./algorithms/java/src/easy/ClearDigits/ClearDigits.java)|Easy|
 |3160|[Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)|[Java](./algorithms/java/src/medium/FindTheNumberOfDistinctColorsAmongTheBalls/FindTheNumberOfDistinctColorsAmongTheBalls.java)|Medium|
 |3151|[Special Array I](https://leetcode.com/problems/special-array-i/)|[Java](./algorithms/java/src/easy/SpecialArrayI/SpecialArrayI.java)|Easy|
