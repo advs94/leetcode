@@ -68,6 +68,7 @@ LeetCode
 |1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)|[Java](./algorithms/java/src/medium/ConstructTheLexicographicallyLargestValidSequence/ConstructTheLexicographicallyLargestValidSequence.java)|Medium|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Java](./algorithms/java/src/easy/DefuseTheBomb/DefuseTheBomb.java)|Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[Java](./algorithms/java/src/medium/NumberOfSub-arraysWithOddSum/NumberOfSub-arraysWithOddSum.java)|Medium|
+|1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./algorithms/java/src/easy/NumberOfGoodPairs/NumberOfGoodPairs.java)|Easy|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./algorithms/java/src/medium/CourseScheduleIv/CourseScheduleIv.java)|Medium|
 |1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Java](./algorithms/java/src/medium/TheK-thLexicographicalStringOfAllHappyStringsOfLengthN/TheK-thLexicographicalStringOfAllHappyStringsOfLengthN.java)|Medium|
 |1408|[String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/)|[Java](./algorithms/java/src/easy/StringMatchingInAnArray/StringMatchingInAnArray.java)|Easy|
