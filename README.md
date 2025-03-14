@@ -51,6 +51,7 @@ LeetCode
 |2127|[Maximum Employees to Be Invited to a Meeting](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/)|[Java](./algorithms/java/src/hard/MaximumEmployeesToBeInvitedToAMeeting/MaximumEmployeesToBeInvitedToAMeeting.java)|Hard|
 |2116|[Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid/)|[Java](./algorithms/java/src/medium/CheckIfAParenthesesStringCanBeValid/CheckIfAParenthesesStringCanBeValid.java)|Medium|
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
+|2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Java](./algorithms/java/src/easy/FinalValueOfVariableAfterPerformingOperations/FinalValueOfVariableAfterPerformingOperations.java)|Easy|
 |1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)|[Java](./algorithms/java/src/medium/FindUniqueBinaryString/FindUniqueBinaryString.java)|Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Java](./algorithms/java/src/easy/ConcatenationOfArray/ConcatenationOfArray.java)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Java](./algorithms/java/src/easy/BuildArrayFromPermutation/BuildArrayFromPermutation.java)|Easy|
