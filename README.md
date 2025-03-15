@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|3467|[Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)|[Java](./algorithms/java/src/easy/TransformArrayByParity/TransformArrayByParity.java)|Easy|
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)|[Java](./algorithms/java/src/medium/ZeroArrayTransformationIi/ZeroArrayTransformationIi.java)|Medium|
 |3306|[Count of Substrings Containing Every Vowel and K Consonants II](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/)|[Java](./algorithms/java/src/medium/CountOfSubstringsContainingEveryVowelAndKConsonantsIi/CountOfSubstringsContainingEveryVowelAndKConsonantsIi.java)|Medium|
 |3289|[The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)|[Java](./algorithms/java/src/easy/TheTwoSneakyNumbersOfDigitville/TheTwoSneakyNumbersOfDigitville.java)|Easy|
