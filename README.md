@@ -28,6 +28,7 @@ LeetCode
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Java](./algorithms/java/src/easy/FindWordsContainingCharacter/FindWordsContainingCharacter.java)|Easy|
 |2932|[Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/)|[Java](./algorithms/java/src/easy/MaximumStrongPairXorI/MaximumStrongPairXorI.java)|Easy|
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|[Java](./algorithms/java/src/medium/InsertGreatestCommonDivisorsInLinkedList/InsertGreatestCommonDivisorsInLinkedList.java)|Medium|
+|2798|[Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)|[Java](./algorithms/java/src/easy/NumberOfEmployeesWhoMetTheTarget/NumberOfEmployeesWhoMetTheTarget.java)|Easy|
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Java](./algorithms/java/src/easy/FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber.java)|Easy|
 |2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Java](./algorithms/java/src/medium/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger.java)|Medium|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)|[Java](./algorithms/java/src/medium/NeighboringBitwiseXOR/NeighboringBitwiseXOR.java)|Medium|
