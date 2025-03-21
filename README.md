@@ -48,6 +48,7 @@ LeetCode
 |2493|[Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/)|[Java](./algorithms/java/src/hard/DivideNodesIntoTheMaximumNumberOfGroups/DivideNodesIntoTheMaximumNumberOfGroups.java)|Hard|
 |2467|[Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/)|[Java](./algorithms/java/src/medium/MostProfitablePathInATree/MostProfitablePathInATree.java)|Medium|
 |2460|[Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/)|[Java](./algorithms/java/src/easy/ApplyOperationsToAnArray/ApplyOperationsToAnArray.java)|Easy|
+|2433|[Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/)|[Java](./algorithms/java/src/easy/FindTheOriginalArrayOfPrefixXor/FindTheOriginalArrayOfPrefixXor.java)|Easy|
 |2429|[Minimize XOR](https://leetcode.com/problems/minimize-xor/)|[Java](./algorithms/java/src/medium/MinimizeXOR/MinimizeXOR.java)|Medium|
 |2427|[Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/)|[Java](./algorithms/java/src/easy/NumberOfCommonFactors/NumberOfCommonFactors.java)|Easy|
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|[Java](./algorithms/java/src/medium/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings.java)|Medium|
