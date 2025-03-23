@@ -46,4 +46,5 @@ public class MapOfHighestPeak {
             heightValue++;
         }
         return height;
+    }
 }
