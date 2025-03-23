@@ -41,6 +41,7 @@ LeetCode
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./algorithms/java/src/medium/FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArrayOfTwoArrays.java)|Medium|
 |2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)|[Java](./algorithms/java/src/medium/MinimumTimeToRepairCars/MinimumTimeToRepairCars.java)|Medium|
 |2579|[Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[Java](./algorithms/java/src/medium/CountTotalNumberOfColoredCells/CountTotalNumberOfColoredCells.java)|Medium|
+|2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./algorithms/java/src/easy/LeftAndRightSumDifferences/LeftAndRightSumDifferences.java)|Easy|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)|[Java](./algorithms/java/src/easy/MergeTwo2dArraysBySummingValues/MergeTwo2dArraysBySummingValues.java)|Easy|
 |2560|[House Robber IV](https://leetcode.com/problems/house-robber-iv/)|[Java](./algorithms/java/src/medium/HouseRobberIv/HouseRobberIv.java)|Medium|
 |2529|[Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/)|[Java](./algorithms/java/src/easy/MaximumCountOfPositiveIntegerAndNegativeInteger/MaximumCountOfPositiveIntegerAndNegativeInteger.java)|Easy|
