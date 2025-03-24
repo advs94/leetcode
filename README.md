@@ -89,6 +89,7 @@ LeetCode
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Java](./algorithms/java/src/easy/CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./algorithms/java/src/easy/RichestCustomerWealth/RichestCustomerWealth.java)|Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Java](./algorithms/java/src/easy/DefuseTheBomb/DefuseTheBomb.java)|Easy|
+|1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Java](./algorithms/java/src/easy/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[Java](./algorithms/java/src/medium/NumberOfSub-arraysWithOddSum/NumberOfSub-arraysWithOddSum.java)|Medium|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./algorithms/java/src/easy/NumberOfGoodPairs/NumberOfGoodPairs.java)|Easy|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Java](./algorithms/java/src/medium/SubrectangleQueries/SubrectangleQueries.java)|Medium|
