@@ -86,6 +86,7 @@ LeetCode
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Java](./algorithms/java/src/easy/CheckIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated.java)|Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Java](./algorithms/java/src/medium/MaximumAbsoluteSumOfAnySubarray/MaximumAbsoluteSumOfAnySubarray.java)|Medium|
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Java](./algorithms/java/src/medium/TupleWithSameProduct/TupleWithSameProduct.java)|Medium|
+|1720|[Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)|[Java](./algorithms/java/src/easy/DecodeXoredArray/DecodeXoredArray.java)|Easy|
 |1718|[Construct the Lexicographically Largest Valid Sequence](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/)|[Java](./algorithms/java/src/medium/ConstructTheLexicographicallyLargestValidSequence/ConstructTheLexicographicallyLargestValidSequence.java)|Medium|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Java](./algorithms/java/src/easy/CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./algorithms/java/src/easy/RichestCustomerWealth/RichestCustomerWealth.java)|Easy|
