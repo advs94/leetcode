@@ -100,6 +100,7 @@ LeetCode
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Java](./algorithms/java/src/easy/CheckIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent.java)|Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Java](./algorithms/java/src/easy/DefuseTheBomb/DefuseTheBomb.java)|Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Java](./algorithms/java/src/easy/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|Easy|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./algorithms/java/src/easy/ShuffleString/ShuffleString.java)|Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[Java](./algorithms/java/src/medium/NumberOfSub-arraysWithOddSum/NumberOfSub-arraysWithOddSum.java)|Medium|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./algorithms/java/src/easy/NumberOfGoodPairs/NumberOfGoodPairs.java)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./algorithms/java/src/easy/RunningSumOf1dArray/RunningSumOf1dArray.java)|Easy|
