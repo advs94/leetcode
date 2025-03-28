@@ -82,6 +82,7 @@ LeetCode
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Java](./algorithms/java/src/easy/MinimumNumberOfMovesToSeatEveryone/MinimumNumberOfMovesToSeatEveryone.java)|Easy|
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Java](./algorithms/java/src/easy/FinalValueOfVariableAfterPerformingOperations/FinalValueOfVariableAfterPerformingOperations.java)|Easy|
+|2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Java](./algorithms/java/src/easy/CountNumberOfPairsWithAbsoluteDifferenceK/CountNumberOfPairsWithAbsoluteDifferenceK.java)|Easy|
 |1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)|[Java](./algorithms/java/src/medium/FindUniqueBinaryString/FindUniqueBinaryString.java)|Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Java](./algorithms/java/src/easy/ConcatenationOfArray/ConcatenationOfArray.java)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Java](./algorithms/java/src/easy/BuildArrayFromPermutation/BuildArrayFromPermutation.java)|Easy|
