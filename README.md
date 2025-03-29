@@ -104,6 +104,7 @@ LeetCode
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Java](./algorithms/java/src/easy/CountTheNumberOfConsistentStrings/CountTheNumberOfConsistentStrings.java)|Easy|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[Java](./algorithms/java/src/easy/RichestCustomerWealth/RichestCustomerWealth.java)|Easy|
 |1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[Java](./algorithms/java/src/easy/CheckIfTwoStringArraysAreEquivalent/CheckIfTwoStringArraysAreEquivalent.java)|Easy|
+|1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Java](./algorithms/java/src/easy/DesignAnOrderedStream/DesignAnOrderedStream.java)|Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Java](./algorithms/java/src/easy/DefuseTheBomb/DefuseTheBomb.java)|Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Java](./algorithms/java/src/easy/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./algorithms/java/src/easy/ShuffleString/ShuffleString.java)|Easy|
