@@ -109,6 +109,7 @@ LeetCode
 |1656|[Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/)|[Java](./algorithms/java/src/easy/DesignAnOrderedStream/DesignAnOrderedStream.java)|Easy|
 |1652|[Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/)|[Java](./algorithms/java/src/easy/DefuseTheBomb/DefuseTheBomb.java)|Easy|
 |1637|[Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|[Java](./algorithms/java/src/easy/WidestVerticalAreaBetweenTwoPointsContainingNoPoints/WidestVerticalAreaBetweenTwoPointsContainingNoPoints.java)|Easy|
+|1588|[Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/)|[Java](./algorithms/java/src/easy/SumOfAllOddLengthSubarrays/SumOfAllOddLengthSubarrays.java)|Easy|
 |1572|[Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)|[Java](./algorithms/java/src/easy/MatrixDiagonalSum/MatrixDiagonalSum.java)|Easy|
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[Java](./algorithms/java/src/easy/ShuffleString/ShuffleString.java)|Easy|
 |1524|[Number of Sub-arrays With Odd Sum](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/)|[Java](./algorithms/java/src/medium/NumberOfSub-arraysWithOddSum/NumberOfSub-arraysWithOddSum.java)|Medium|
