@@ -118,6 +118,7 @@ LeetCode
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[Java](./algorithms/java/src/easy/NumberOfGoodPairs/NumberOfGoodPairs.java)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Java](./algorithms/java/src/easy/RunningSumOf1dArray/RunningSumOf1dArray.java)|Easy|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Java](./algorithms/java/src/medium/SubrectangleQueries/SubrectangleQueries.java)|Medium|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/)|[Java](./algorithms/java/src/easy/FinalPricesWithASpecialDiscountInAShop/FinalPricesWithASpecialDiscountInAShop.java)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./algorithms/java/src/easy/ShuffleTheArray/ShuffleTheArray.java)|Easy|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./algorithms/java/src/medium/CourseScheduleIv/CourseScheduleIv.java)|Medium|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./algorithms/java/src/easy/KidsWithTheGreatestNumberOfCandies/KidsWithTheGreatestNumberOfCandies.java)|Easy|
