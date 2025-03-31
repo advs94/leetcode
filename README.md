@@ -16,6 +16,7 @@ LeetCode
 |3285|[Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/)|[Java](./algorithms/java/src/easy/FindIndicesOfStableMountains/FindIndicesOfStableMountains.java)|Easy|
 |3264|[Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)|[Java](./algorithms/java/src/easy/FinalArrayStateAfterKMultiplicationOperationsI/FinalArrayStateAfterKMultiplicationOperationsI.java)|Easy|
 |3258|[Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/)|[Java](./algorithms/java/src/easy/CountSubstringsThatSatisfyK-constraintI/CountSubstringsThatSatisfyK-constraintI.java)|Easy|
+|3242|[Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/)|[Java](./algorithms/java/src/easy/DesignNeighborSumService/DesignNeighborSumService.java)|Easy|
 |3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Java](./algorithms/java/src/medium/MinimumLengthOfStringAfterOperations/MinimumLengthOfStringAfterOperations.java)|Medium|
 |3208|[Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)|[Java](./algorithms/java/src/medium/AlternatingGroupsIi/AlternatingGroupsIi.java)|Medium|
 |3206|[Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/)|[Java](./algorithms/java/src/easy/AlternatingGroupsI/AlternatingGroupsI.java)|Easy|
