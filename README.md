@@ -89,6 +89,7 @@ LeetCode
 |1980|[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/)|[Java](./algorithms/java/src/medium/FindUniqueBinaryString/FindUniqueBinaryString.java)|Medium|
 |1929|[Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/)|[Java](./algorithms/java/src/easy/ConcatenationOfArray/ConcatenationOfArray.java)|Easy|
 |1920|[Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)|[Java](./algorithms/java/src/easy/BuildArrayFromPermutation/BuildArrayFromPermutation.java)|Easy|
+|1913|[Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|[Java](./algorithms/java/src/easy/MaximumProductDifferenceBetweenTwoPairs/MaximumProductDifferenceBetweenTwoPairs.java)|Easy|
 |1910|[Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)|[Java](./algorithms/java/src/medium/RemoveAllOccurrencesOfASubstring/RemoveAllOccurrencesOfASubstring.java)|Medium|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/)|[Java](./algorithms/java/src/easy/SubstringsOfSizeThreeWithDistinctCharacters/SubstringsOfSizeThreeWithDistinctCharacters.java)|Easy|
 |1863|[Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/)|[Java](./algorithms/java/src/easy/SumOfAllSubsetXorTotals/SumOfAllSubsetXorTotals.java)|Easy|
