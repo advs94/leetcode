@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|3502|[Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/)|[Java](./algorithms/java/src/easy/MinimumCostToReachEveryPosition/MinimumCostToReachEveryPosition.java)|Easy|
 |3467|[Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)|[Java](./algorithms/java/src/easy/TransformArrayByParity/TransformArrayByParity.java)|Easy|
 |3427|[Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/)|[Java](./algorithms/java/src/easy/SumOfVariableLengthSubarrays/SumOfVariableLengthSubarrays.java)|Easy|
 |3356|[Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)|[Java](./algorithms/java/src/medium/ZeroArrayTransformationIi/ZeroArrayTransformationIi.java)|Medium|
