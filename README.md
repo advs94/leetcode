@@ -28,6 +28,7 @@ LeetCode
 |3162|[Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/)|[Java](./algorithms/java/src/easy/FindTheNumberOfGoodPairsI/FindTheNumberOfGoodPairsI.java)|Easy|
 |3160|[Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)|[Java](./algorithms/java/src/medium/FindTheNumberOfDistinctColorsAmongTheBalls/FindTheNumberOfDistinctColorsAmongTheBalls.java)|Medium|
 |3151|[Special Array I](https://leetcode.com/problems/special-array-i/)|[Java](./algorithms/java/src/easy/SpecialArrayI/SpecialArrayI.java)|Easy|
+|3131|[Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/)|[Java](./algorithms/java/src/easy/FindTheIntegerAddedToArrayI/FindTheIntegerAddedToArrayI.java)|Easy|
 |3110|[Score of a String](https://leetcode.com/problems/score-of-a-string/)|[Java](./algorithms/java/src/easy/ScoreOfAString/ScoreOfAString.java)|Easy|
 |3108|[Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/)|[Java](./algorithms/java/src/hard/MinimumCostWalkInWeightedGraph/MinimumCostWalkInWeightedGraph.java)|Hard|
 |3105|[Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)|[Java](./algorithms/java/src/easy/LongestStrictlyIncreasingOrStrictlyDecreasingSubarray/LongestStrictlyIncreasingOrStrictlyDecreasingSubarray.java)|Easy|
