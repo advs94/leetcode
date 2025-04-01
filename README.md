@@ -50,6 +50,7 @@ LeetCode
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Java](./algorithms/java/src/easy/FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber.java)|Easy|
 |2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Java](./algorithms/java/src/medium/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger.java)|Medium|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)|[Java](./algorithms/java/src/medium/NeighboringBitwiseXOR/NeighboringBitwiseXOR.java)|Medium|
+|2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Java](./algorithms/java/src/easy/NumberOfSeniorCitizens/NumberOfSeniorCitizens.java)|Easy|
 |2661|[First Completely Painted Row or Column](https://leetcode.com/problems/first-completely-painted-row-or-column/)|[Java](./algorithms/java/src/medium/FirstCompletelyPaintedRowOrColumn/FirstCompletelyPaintedRowOrColumn.java)|Medium|
 |2658|[Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/)|[Java](./algorithms/java/src/medium/MaximumNumberOfFishInAGrid/MaximumNumberOfFishInAGrid.java)|Medium|
 |2657|[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/)|[Java](./algorithms/java/src/medium/FindThePrefixCommonArrayOfTwoArrays/FindThePrefixCommonArrayOfTwoArrays.java)|Medium|
