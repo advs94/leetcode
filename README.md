@@ -48,6 +48,7 @@ LeetCode
 |2807|[Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)|[Java](./algorithms/java/src/medium/InsertGreatestCommonDivisorsInLinkedList/InsertGreatestCommonDivisorsInLinkedList.java)|Medium|
 |2798|[Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)|[Java](./algorithms/java/src/easy/NumberOfEmployeesWhoMetTheTarget/NumberOfEmployeesWhoMetTheTarget.java)|Easy|
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Java](./algorithms/java/src/easy/FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber.java)|Easy|
+|2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)|[Java](./algorithms/java/src/easy/FindMaximumNumberOfStringPairs/FindMaximumNumberOfStringPairs.java)|Easy|
 |2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Java](./algorithms/java/src/medium/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger.java)|Medium|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)|[Java](./algorithms/java/src/medium/NeighboringBitwiseXOR/NeighboringBitwiseXOR.java)|Medium|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Java](./algorithms/java/src/easy/NumberOfSeniorCitizens/NumberOfSeniorCitizens.java)|Easy|
