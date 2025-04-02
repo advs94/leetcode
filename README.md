@@ -151,6 +151,7 @@ LeetCode
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./algorithms/java/src/medium/CountNumberOfNiceSubarrays/CountNumberOfNiceSubarrays.java)|Medium|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./algorithms/java/src/hard/ShortestCommonSupersequence/ShortestCommonSupersequence.java)|Hard|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./algorithms/java/src/easy/HeightChecker/HeightChecker.java)|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](./algorithms/java/src/hard/RecoverATreeFromPreorderTraversal/RecoverATreeFromPreorderTraversal.java)|Hard|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./algorithms/java/src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
