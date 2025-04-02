@@ -19,6 +19,7 @@ LeetCode
 |3258|[Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/)|[Java](./algorithms/java/src/easy/CountSubstringsThatSatisfyK-constraintI/CountSubstringsThatSatisfyK-constraintI.java)|Easy|
 |3248|[Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/)|[Java](./algorithms/java/src/easy/SnakeInMatrix/SnakeInMatrix.java)|Easy|
 |3242|[Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/)|[Java](./algorithms/java/src/easy/DesignNeighborSumService/DesignNeighborSumService.java)|Easy|
+|3232|[Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)|[Java](./algorithms/java/src/easy/FindIfDigitGameCanBeWon/FindIfDigitGameCanBeWon.java)|Easy|
 |3223|[Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)|[Java](./algorithms/java/src/medium/MinimumLengthOfStringAfterOperations/MinimumLengthOfStringAfterOperations.java)|Medium|
 |3208|[Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)|[Java](./algorithms/java/src/medium/AlternatingGroupsIi/AlternatingGroupsIi.java)|Medium|
 |3206|[Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/)|[Java](./algorithms/java/src/easy/AlternatingGroupsI/AlternatingGroupsI.java)|Easy|
