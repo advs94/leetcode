@@ -160,6 +160,7 @@ LeetCode
 |1267|[Count Servers that Communicate](https://leetcode.com/problems/count-servers-that-communicate/)|[Java](./algorithms/java/src/medium/CountServersThatCommunicate/CountServersThatCommunicate.java)|Medium|
 |1266|[Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/)|[Java](./algorithms/java/src/easy/MinimumTimeVisitingAllPoints/MinimumTimeVisitingAllPoints.java)|Easy|
 |1261|[Find Elements in a Contaminated Binary Tree](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/)|[Java](./algorithms/java/src/medium/FindElementsInAContaminatedBinaryTree/FindElementsInAContaminatedBinaryTree.java)|Medium|
+|1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](./algorithms/java/src/easy/CellsWithOddValuesInAMatrix/CellsWithOddValuesInAMatrix.java)|Easy|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./algorithms/java/src/medium/CountNumberOfNiceSubarrays/CountNumberOfNiceSubarrays.java)|Medium|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./algorithms/java/src/hard/ShortestCommonSupersequence/ShortestCommonSupersequence.java)|Hard|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
