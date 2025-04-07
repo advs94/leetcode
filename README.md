@@ -121,6 +121,7 @@ LeetCode
 |1765|[Map of Highest Peak](https://leetcode.com/problems/map-of-highest-peak/)|[Java](./algorithms/java/src/medium/MapOfHighestPeak/MapOfHighestPeak.java)|Medium|
 |1752|[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/)|[Java](./algorithms/java/src/easy/CheckIfArrayIsSortedAndRotated/CheckIfArrayIsSortedAndRotated.java)|Easy|
 |1749|[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)|[Java](./algorithms/java/src/medium/MaximumAbsoluteSumOfAnySubarray/MaximumAbsoluteSumOfAnySubarray.java)|Medium|
+|1748|[Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/)|[Java](./algorithms/java/src/easy/SumOfUniqueElements/SumOfUniqueElements.java)|Easy|
 |1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[Java](./algorithms/java/src/easy/FindTheHighestAltitude/FindTheHighestAltitude.java)|Easy|
 |1726|[Tuple with Same Product](https://leetcode.com/problems/tuple-with-same-product/)|[Java](./algorithms/java/src/medium/TupleWithSameProduct/TupleWithSameProduct.java)|Medium|
 |1725|[Number Of Rectangles That Can Form The Largest Square](https://leetcode.com/problems/number-of-rectangles-that-can-form-the-largest-square/)|[Java](./algorithms/java/src/easy/NumberOfRectanglesThatCanFormTheLargestSquare/NumberOfRectanglesThatCanFormTheLargestSquare.java)|Easy|
