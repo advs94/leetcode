@@ -181,6 +181,7 @@ LeetCode
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](./algorithms/java/src/easy/UniqueMorseCodeWords/UniqueMorseCodeWords.java)|Easy|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Java](./algorithms/java/src/easy/BaseballGame/BaseballGame.java)|Easy|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Java](./algorithms/java/src/easy/ArrayPartition/ArrayPartition.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
