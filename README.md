@@ -88,6 +88,7 @@ LeetCode
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./algorithms/java/src/easy/LargestLocalValuesInAMatrix/LargestLocalValuesInAMatrix.java)|Easy|
 |2367|[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)|[Java](./algorithms/java/src/easy/NumberOfArithmeticTriplets/NumberOfArithmeticTriplets.java)|Easy|
 |2364|[Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)|[Java](./algorithms/java/src/medium/CountNumberOfBadPairs/CountNumberOfBadPairs.java)|Medium|
+|2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Java](./algorithms/java/src/easy/MergeSimilarItems/MergeSimilarItems.java)|Easy|
 |2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Java](./algorithms/java/src/medium/DesignANumberContainerSystem/DesignANumberContainerSystem.java)|Medium|
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Java](./algorithms/java/src/medium/MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPairWithEqualSumOfDigits.java)|Medium|
 |2226|[Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)|[Java](./algorithms/java/src/medium/MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren.java)|Medium|
