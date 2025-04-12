@@ -183,6 +183,7 @@ LeetCode
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](./algorithms/java/src/easy/N-repeatedElementInSize2nArray/N-repeatedElementInSize2nArray.java)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Java](./algorithms/java/src/easy/DiStringMatch/DiStringMatch.java)|Easy|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
+|905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](./algorithms/java/src/easy/SortArrayByParity/SortArrayByParity.java)|Easy|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./algorithms/java/src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Java](./algorithms/java/src/medium/LengthOfLongestFibonacciSubsequence/LengthOfLongestFibonacciSubsequence.java)|Medium|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/java/src/easy/FlippingAnImage/FlippingAnImage.java)|Easy|
