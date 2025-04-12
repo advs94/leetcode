@@ -106,6 +106,7 @@ LeetCode
 |2053|[Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/)|[Java](./algorithms/java/src/easy/KthDistinctStringInAnArray/KthDistinctStringInAnArray.java)|Easy|
 |2044|[Count Number of Maximum Bitwise-OR Subsets](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/)|[Java](./algorithms/java/src/medium/CountNumberOfMaximumBitwise-orSubsets/CountNumberOfMaximumBitwise-orSubsets.java)|Medium|
 |2037|[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)|[Java](./algorithms/java/src/easy/MinimumNumberOfMovesToSeatEveryone/MinimumNumberOfMovesToSeatEveryone.java)|Easy|
+|2032|[Two Out of Three](https://leetcode.com/problems/two-out-of-three/)|[Java](./algorithms/java/src/easy/TwoOutOfThree/TwoOutOfThree.java)|Easy|
 |2017|[Grid Game](https://leetcode.com/problems/grid-game/)|[Java](./algorithms/java/src/medium/GridGame/GridGame.java)|Medium|
 |2011|[Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)|[Java](./algorithms/java/src/easy/FinalValueOfVariableAfterPerformingOperations/FinalValueOfVariableAfterPerformingOperations.java)|Easy|
 |2006|[Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/)|[Java](./algorithms/java/src/easy/CountNumberOfPairsWithAbsoluteDifferenceK/CountNumberOfPairsWithAbsoluteDifferenceK.java)|Easy|
