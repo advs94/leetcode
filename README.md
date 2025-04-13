@@ -196,6 +196,7 @@ LeetCode
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Java](./algorithms/java/src/easy/ArrayPartition/ArrayPartition.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](./algorithms/java/src/easy/IntersectionOfTwoArrays/IntersectionOfTwoArrays.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/)|[Java](./algorithms/java/src/easy/Pascal'sTriangle/Pascal'sTriangle.java)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./algorithms/java/src/easy/LengthOfLastWord/LengthOfLastWord.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/src/easy/SearchInsertPosition/SearchInsertPosition.java)|Easy|
