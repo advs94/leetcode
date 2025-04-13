@@ -191,6 +191,7 @@ LeetCode
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./algorithms/java/src/easy/HeightChecker/HeightChecker.java)|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](./algorithms/java/src/hard/RecoverATreeFromPreorderTraversal/RecoverATreeFromPreorderTraversal.java)|Hard|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](./algorithms/java/src/easy/N-repeatedElementInSize2nArray/N-repeatedElementInSize2nArray.java)|Easy|
+|944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Java](./algorithms/java/src/easy/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.java)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Java](./algorithms/java/src/easy/DiStringMatch/DiStringMatch.java)|Easy|
 |916|[Word Subsets](https://leetcode.com/problems/word-subsets/)|[Java](./algorithms/java/src/medium/WordSubsets/WordSubsets.java)|Medium|
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](./algorithms/java/src/easy/SortArrayByParity/SortArrayByParity.java)|Easy|
