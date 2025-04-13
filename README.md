@@ -157,6 +157,7 @@ LeetCode
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Java](./algorithms/java/src/easy/ShuffleTheArray/ShuffleTheArray.java)|Easy|
 |1464|[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/)|[Java](./algorithms/java/src/easy/MaximumProductOfTwoElementsInAnArray/MaximumProductOfTwoElementsInAnArray.java)|Easy|
 |1462|[Course Schedule IV](https://leetcode.com/problems/course-schedule-iv/)|[Java](./algorithms/java/src/medium/CourseScheduleIv/CourseScheduleIv.java)|Medium|
+|1460|[Make Two Arrays Equal by Reversing Subarrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)|[Java](./algorithms/java/src/easy/MakeTwoArraysEqualByReversingSubarrays/MakeTwoArraysEqualByReversingSubarrays.java)|Easy|
 |1436|[Destination City](https://leetcode.com/problems/destination-city/)|[Java](./algorithms/java/src/easy/DestinationCity/DestinationCity.java)|Easy|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[Java](./algorithms/java/src/easy/KidsWithTheGreatestNumberOfCandies/KidsWithTheGreatestNumberOfCandies.java)|Easy|
 |1415|[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/)|[Java](./algorithms/java/src/medium/TheK-thLexicographicalStringOfAllHappyStringsOfLengthN/TheK-thLexicographicalStringOfAllHappyStringsOfLengthN.java)|Medium|
