@@ -184,6 +184,7 @@ LeetCode
 |1252|[Cells with Odd Values in a Matrix](https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/)|[Java](./algorithms/java/src/easy/CellsWithOddValuesInAMatrix/CellsWithOddValuesInAMatrix.java)|Easy|
 |1248|[Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/)|[Java](./algorithms/java/src/medium/CountNumberOfNiceSubarrays/CountNumberOfNiceSubarrays.java)|Medium|
 |1207|[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Java](./algorithms/java/src/easy/UniqueNumberOfOccurrences/UniqueNumberOfOccurrences.java)|Easy|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)|[Java](./algorithms/java/src/easy/RelativeSortArray/RelativeSortArray.java)|Easy|
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./algorithms/java/src/hard/ShortestCommonSupersequence/ShortestCommonSupersequence.java)|Hard|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./algorithms/java/src/easy/HeightChecker/HeightChecker.java)|Easy|
