@@ -57,6 +57,7 @@ LeetCode
 |2778|[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)|[Java](./algorithms/java/src/easy/SumOfSquaresOfSpecialElements/SumOfSquaresOfSpecialElements.java)|Easy|
 |2769|[Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/)|[Java](./algorithms/java/src/easy/FindTheMaximumAchievableNumber/FindTheMaximumAchievableNumber.java)|Easy|
 |2744|[Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/)|[Java](./algorithms/java/src/easy/FindMaximumNumberOfStringPairs/FindMaximumNumberOfStringPairs.java)|Easy|
+|2733|[Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)|[Java](./algorithms/java/src/easy/NeitherMinimumNorMaximum/NeitherMinimumNorMaximum.java)|Easy|
 |2698|[Find the Punishment Number of an Integer](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/)|[Java](./algorithms/java/src/medium/FindThePunishmentNumberOfAnInteger/FindThePunishmentNumberOfAnInteger.java)|Medium|
 |2683|[Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor/)|[Java](./algorithms/java/src/medium/NeighboringBitwiseXOR/NeighboringBitwiseXOR.java)|Medium|
 |2678|[Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/)|[Java](./algorithms/java/src/easy/NumberOfSeniorCitizens/NumberOfSeniorCitizens.java)|Easy|
