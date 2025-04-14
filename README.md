@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|3512|[Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/)|[Java](./algorithms/java/src/easy/MinimumOperationsToMakeArraySumDivisibleByK/MinimumOperationsToMakeArraySumDivisibleByK.java)|Easy|
 |3502|[Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position/)|[Java](./algorithms/java/src/easy/MinimumCostToReachEveryPosition/MinimumCostToReachEveryPosition.java)|Easy|
 |3467|[Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)|[Java](./algorithms/java/src/easy/TransformArrayByParity/TransformArrayByParity.java)|Easy|
 |3432|[Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)|[Java](./algorithms/java/src/easy/CountPartitionsWithEvenSumDifference/CountPartitionsWithEvenSumDifference.java)|Easy|
