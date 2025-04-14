@@ -193,6 +193,7 @@ LeetCode
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./algorithms/java/src/easy/HeightChecker/HeightChecker.java)|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](./algorithms/java/src/hard/RecoverATreeFromPreorderTraversal/RecoverATreeFromPreorderTraversal.java)|Hard|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./algorithms/java/src/easy/FindCommonCharacters/FindCommonCharacters.java)|Easy|
 |961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[Java](./algorithms/java/src/easy/N-repeatedElementInSize2nArray/N-repeatedElementInSize2nArray.java)|Easy|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/)|[Java](./algorithms/java/src/easy/DeleteColumnsToMakeSorted/DeleteColumnsToMakeSorted.java)|Easy|
 |942|[DI String Match](https://leetcode.com/problems/di-string-match/)|[Java](./algorithms/java/src/easy/DiStringMatch/DiStringMatch.java)|Easy|
