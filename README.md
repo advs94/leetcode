@@ -181,6 +181,7 @@ LeetCode
 |1356|[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)|[Java](./algorithms/java/src/easy/SortIntegersByTheNumberOf1Bits/SortIntegersByTheNumberOf1Bits.java)|Easy|
 |1352|[Product of the Last K Numbers](https://leetcode.com/problems/product-of-the-last-k-numbers/)|[Java](./algorithms/java/src/medium/ProductOfTheLastKNumbers/ProductOfTheLastKNumbers.java)|Medium|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Java](./algorithms/java/src/easy/CountNegativeNumbersInASortedMatrix/CountNegativeNumbersInASortedMatrix.java)|Easy|
+|1337|[The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[Java](./algorithms/java/src/easy/TheKWeakestRowsInAMatrix/TheKWeakestRowsInAMatrix.java)|Easy|
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[Java](./algorithms/java/src/easy/DecompressRun-lengthEncodedList/DecompressRun-lengthEncodedList.java)|Easy|
 |1304|[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)|[Java](./algorithms/java/src/easy/FindNUniqueIntegersSumUpToZero/FindNUniqueIntegersSumUpToZero.java)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Java](./algorithms/java/src/easy/FindNumbersWithEvenNumberOfDigits/FindNumbersWithEvenNumberOfDigits.java)|Easy|
