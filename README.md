@@ -204,6 +204,7 @@ LeetCode
 |905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[Java](./algorithms/java/src/easy/SortArrayByParity/SortArrayByParity.java)|Easy|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)|[Java](./algorithms/java/src/medium/ConstructBinaryTreeFromPreorderAndPostorderTraversal/ConstructBinaryTreeFromPreorderAndPostorderTraversal.java)|Medium|
 |873|[Length of Longest Fibonacci Subsequence](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/)|[Java](./algorithms/java/src/medium/LengthOfLongestFibonacciSubsequence/LengthOfLongestFibonacciSubsequence.java)|Medium|
+|867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./algorithms/java/src/easy/TransposeMatrix/TransposeMatrix.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/java/src/easy/FlippingAnImage/FlippingAnImage.java)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./algorithms/java/src/hard/MakingALargeIsland/MakingALargeIsland.java)|Hard|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](./algorithms/java/src/easy/UniqueMorseCodeWords/UniqueMorseCodeWords.java)|Easy|
