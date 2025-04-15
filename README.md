@@ -47,6 +47,7 @@ LeetCode
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)|[Java](./algorithms/java/src/easy/FindMissingAndRepeatedValues/FindMissingAndRepeatedValues.java)|Easy|
 |2960|[Count Tested Devices After Test Operations](https://leetcode.com/problems/count-tested-devices-after-test-operations/)|[Java](./algorithms/java/src/easy/CountTestedDevicesAfterTestOperations/CountTestedDevicesAfterTestOperations.java)|Easy|
 |2956|[Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/)|[Java](./algorithms/java/src/easy/FindCommonElementsBetweenTwoArrays/FindCommonElementsBetweenTwoArrays.java)|Easy|
+|2951|[Find the Peaks](https://leetcode.com/problems/find-the-peaks/)|[Java](./algorithms/java/src/easy/FindThePeaks/FindThePeaks.java)|Easy|
 |2948|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)|[Java](./algorithms/java/src/medium/MakeLexicographicallySmallestArrayBySwappingElements/MakeLexicographicallySmallestArrayBySwappingElements.java)|Medium|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Java](./algorithms/java/src/easy/FindWordsContainingCharacter/FindWordsContainingCharacter.java)|Easy|
 |2932|[Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/)|[Java](./algorithms/java/src/easy/MaximumStrongPairXorI/MaximumStrongPairXorI.java)|Easy|
