@@ -209,6 +209,7 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Java](./algorithms/java/src/easy/BaseballGame/BaseballGame.java)|Easy|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Java](./algorithms/java/src/easy/ArrayPartition/ArrayPartition.java)|Easy|
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./algorithms/java/src/easy/NextGreaterElementI/NextGreaterElementI.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
 |407|[Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/)|[Java](./algorithms/java/src/hard/TrappingRainWaterII/TrappingRainWaterII.java)|Hard|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](./algorithms/java/src/easy/IntersectionOfTwoArrays/IntersectionOfTwoArrays.java)|Easy|
