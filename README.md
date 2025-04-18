@@ -220,6 +220,7 @@ LeetCode
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)|[Java](./algorithms/java/src/easy/IntersectionOfTwoArrays/IntersectionOfTwoArrays.java)|Easy|
 |136|[Single Number](https://leetcode.com/problems/single-number/)|[Java](./algorithms/java/src/easy/SingleNumber/SingleNumber.java)|Easy|
 |118|[Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/)|[Java](./algorithms/java/src/easy/Pascal'sTriangle/Pascal'sTriangle.java)|Easy|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)|[Java](./algorithms/java/src/easy/ConvertSortedArrayToBinarySearchTree/ConvertSortedArrayToBinarySearchTree.java)|Easy|
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/)|[Java](./algorithms/java/src/easy/LengthOfLastWord/LengthOfLastWord.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Java](./algorithms/java/src/easy/SearchInsertPosition/SearchInsertPosition.java)|Easy|
 |28|[Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)|[Java](./algorithms/java/src/easy/FindTheIndexOfTheFirstOccurrenceInAString/FindTheIndexOfTheFirstOccurrenceInAString.java)|Easy|
