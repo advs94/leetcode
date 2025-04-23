@@ -102,6 +102,7 @@ LeetCode
 |2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Java](./algorithms/java/src/medium/DesignANumberContainerSystem/DesignANumberContainerSystem.java)|Medium|
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Java](./algorithms/java/src/medium/MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPairWithEqualSumOfDigits.java)|Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Java](./algorithms/java/src/easy/MaximumNumberOfPairsInArray/MaximumNumberOfPairsInArray.java)|Easy|
+|2255|[Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/)|[Java](./algorithms/java/src/easy/CountPrefixesOfAGivenString/CountPrefixesOfAGivenString.java)|Easy|
 |2226|[Maximum Candies Allocated to K Children](https://leetcode.com/problems/maximum-candies-allocated-to-k-children/)|[Java](./algorithms/java/src/medium/MaximumCandiesAllocatedToKChildren/MaximumCandiesAllocatedToKChildren.java)|Medium|
 |2215|[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|[Java](./algorithms/java/src/easy/FindTheDifferenceOfTwoArrays/FindTheDifferenceOfTwoArrays.java)|Easy|
 |2206|[Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/)|[Java](./algorithms/java/src/easy/DivideArrayIntoEqualPairs/DivideArrayIntoEqualPairs.java)|Easy|
