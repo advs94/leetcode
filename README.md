@@ -43,6 +43,7 @@ LeetCode
 |3066|[Minimum Operations to Exceed Threshold Value II](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/)|[Java](./algorithms/java/src/medium/MinimumOperationsToExceedThresholdValueIi/MinimumOperationsToExceedThresholdValueIi.java)|Medium|
 |3065|[Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)|[Java](./algorithms/java/src/easy/MinimumOperationsToExceedThresholdValueI/MinimumOperationsToExceedThresholdValueI.java)|Easy|
 |3042|[Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)|[Java](./algorithms/java/src/easy/CountPrefixAndSuffixPairsI/CountPrefixAndSuffixPairsI.java)|Easy|
+|3028|[Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/)|[Java](./algorithms/java/src/easy/AntOnTheBoundary/AntOnTheBoundary.java)|Easy|
 |3005|[Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)|[Java](./algorithms/java/src/easy/CountElementsWithMaximumFrequency/CountElementsWithMaximumFrequency.java)|Easy|
 |2974|[Minimum Number Game](https://leetcode.com/problems/minimum-number-game/)|[Java](./algorithms/java/src/easy/MinimumNumberGame/MinimumNumberGame.java)|Easy|
 |2965|[Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/)|[Java](./algorithms/java/src/easy/FindMissingAndRepeatedValues/FindMissingAndRepeatedValues.java)|Easy|
