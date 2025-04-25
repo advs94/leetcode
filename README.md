@@ -74,6 +74,7 @@ LeetCode
 |2656|[Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/)|[Java](./algorithms/java/src/easy/MaximumSumWithExactlyKElements/MaximumSumWithExactlyKElements.java)|Easy|
 |2643|[Row With Maximum Ones](https://leetcode.com/problems/row-with-maximum-ones/)|[Java](./algorithms/java/src/easy/RowWithMaximumOnes/RowWithMaximumOnes.java)|Easy|
 |2594|[Minimum Time to Repair Cars](https://leetcode.com/problems/minimum-time-to-repair-cars/)|[Java](./algorithms/java/src/medium/MinimumTimeToRepairCars/MinimumTimeToRepairCars.java)|Medium|
+|2586|[Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)|[Java](./algorithms/java/src/easy/CountTheNumberOfVowelStringsInRange/CountTheNumberOfVowelStringsInRange.java)|Easy|
 |2579|[Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)|[Java](./algorithms/java/src/medium/CountTotalNumberOfColoredCells/CountTotalNumberOfColoredCells.java)|Medium|
 |2574|[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/)|[Java](./algorithms/java/src/easy/LeftAndRightSumDifferences/LeftAndRightSumDifferences.java)|Easy|
 |2570|[Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/)|[Java](./algorithms/java/src/easy/MergeTwo2dArraysBySummingValues/MergeTwo2dArraysBySummingValues.java)|Easy|
