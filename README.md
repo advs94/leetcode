@@ -222,6 +222,7 @@ LeetCode
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Java](./algorithms/java/src/easy/BaseballGame/BaseballGame.java)|Easy|
 |561|[Array Partition](https://leetcode.com/problems/array-partition/)|[Java](./algorithms/java/src/easy/ArrayPartition/ArrayPartition.java)|Easy|
+|506|[Relative Ranks](https://leetcode.com/problems/relative-ranks/)|[Java](./algorithms/java/src/easy/RelativeRanks/RelativeRanks.java)|Easy|
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)|[Java](./algorithms/java/src/easy/NextGreaterElementI/NextGreaterElementI.java)|Easy|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)|[Java](./algorithms/java/src/easy/IslandPerimeter/IslandPerimeter.java)|Easy|
 |412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)|[Java](./algorithms/java/src/easy/FizzBuzz/FizzBuzz.java)|Easy|
