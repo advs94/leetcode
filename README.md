@@ -103,6 +103,7 @@ LeetCode
 |2367|[Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/)|[Java](./algorithms/java/src/easy/NumberOfArithmeticTriplets/NumberOfArithmeticTriplets.java)|Easy|
 |2364|[Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/)|[Java](./algorithms/java/src/medium/CountNumberOfBadPairs/CountNumberOfBadPairs.java)|Medium|
 |2363|[Merge Similar Items](https://leetcode.com/problems/merge-similar-items/)|[Java](./algorithms/java/src/easy/MergeSimilarItems/MergeSimilarItems.java)|Easy|
+|2357|[Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/)|[Java](./algorithms/java/src/easy/MakeArrayZeroBySubtractingEqualAmounts/MakeArrayZeroBySubtractingEqualAmounts.java)|Easy|
 |2349|[Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system/)|[Java](./algorithms/java/src/medium/DesignANumberContainerSystem/DesignANumberContainerSystem.java)|Medium|
 |2342|[Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/)|[Java](./algorithms/java/src/medium/MaxSumOfAPairWithEqualSumOfDigits/MaxSumOfAPairWithEqualSumOfDigits.java)|Medium|
 |2341|[Maximum Number of Pairs in Array](https://leetcode.com/problems/maximum-number-of-pairs-in-array/)|[Java](./algorithms/java/src/easy/MaximumNumberOfPairsInArray/MaximumNumberOfPairsInArray.java)|Easy|
