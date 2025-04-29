@@ -207,6 +207,7 @@ LeetCode
 |1092|[Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)|[Java](./algorithms/java/src/hard/ShortestCommonSupersequence/ShortestCommonSupersequence.java)|Hard|
 |1079|[Letter Tile Possibilities](https://leetcode.com/problems/letter-tile-possibilities/)|[Java](./algorithms/java/src/medium/LetterTilePossibilities/LetterTilePossibilities.java)|Medium|
 |1051|[Height Checker](https://leetcode.com/problems/height-checker/)|[Java](./algorithms/java/src/easy/HeightChecker/HeightChecker.java)|Easy|
+|1030|[Matrix Cells in Distance Order](https://leetcode.com/problems/matrix-cells-in-distance-order/)|[Java](./algorithms/java/src/easy/MatrixCellsInDistanceOrder/MatrixCellsInDistanceOrder.java)|Easy|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)|[Java](./algorithms/java/src/hard/RecoverATreeFromPreorderTraversal/RecoverATreeFromPreorderTraversal.java)|Hard|
 |1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)|[Java](./algorithms/java/src/easy/FindCommonCharacters/FindCommonCharacters.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Java](./algorithms/java/src/easy/SquaresOfASortedArray/SquaresOfASortedArray.java)|Easy|
