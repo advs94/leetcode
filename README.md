@@ -99,6 +99,7 @@ LeetCode
 |2425|[Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/)|[Java](./algorithms/java/src/medium/BitwiseXOROfAllPairings/BitwiseXOROfAllPairings.java)|Medium|
 |2418|[Sort the People](https://leetcode.com/problems/sort-the-people/)|[Java](./algorithms/java/src/easy/SortThePeople/SortThePeople.java)|Easy|
 |2401|[Longest Nice Subarray](https://leetcode.com/problems/longest-nice-subarray/)|[Java](./algorithms/java/src/medium/LongestNiceSubarray/LongestNiceSubarray.java)|Medium|
+|2389|[Longest Subsequence With Limited Sum](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)|[Java](./algorithms/java/src/easy/LongestSubsequenceWithLimitedSum/LongestSubsequenceWithLimitedSum.java)|Easy|
 |2379|[Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/)|[Java](./algorithms/java/src/easy/MinimumRecolorsToGetKConsecutiveBlackBlocks/MinimumRecolorsToGetKConsecutiveBlackBlocks.java)|Easy|
 |2375|[Construct Smallest Number From DI String](https://leetcode.com/problems/construct-smallest-number-from-di-string/)|[Java](./algorithms/java/src/medium/ConstructSmallestNumberFromDiString/ConstructSmallestNumberFromDiString.java)|Medium|
 |2373|[Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|[Java](./algorithms/java/src/easy/LargestLocalValuesInAMatrix/LargestLocalValuesInAMatrix.java)|Easy|
