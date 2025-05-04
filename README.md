@@ -55,6 +55,7 @@ LeetCode
 |2948|[Make Lexicographically Smallest Array by Swapping Elements](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/)|[Java](./algorithms/java/src/medium/MakeLexicographicallySmallestArrayBySwappingElements/MakeLexicographicallySmallestArrayBySwappingElements.java)|Medium|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/)|[Java](./algorithms/java/src/easy/FindWordsContainingCharacter/FindWordsContainingCharacter.java)|Easy|
 |2932|[Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/)|[Java](./algorithms/java/src/easy/MaximumStrongPairXorI/MaximumStrongPairXorI.java)|Easy|
+|2923|[Find Champion I](https://leetcode.com/problems/find-champion-i/)|[Java](./algorithms/java/src/easy/FindChampionI/FindChampionI.java)|Easy|
 |2913|[Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/)|[Java](./algorithms/java/src/easy/SubarraysDistinctElementSumOfSquaresI/SubarraysDistinctElementSumOfSquaresI.java)|Easy|
 |2859|[Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/)|[Java](./algorithms/java/src/easy/SumOfValuesAtIndicesWithKSetBits/SumOfValuesAtIndicesWithKSetBits.java)|Easy|
 |2848|[Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)|[Java](./algorithms/java/src/easy/PointsThatIntersectWithCars/PointsThatIntersectWithCars.java)|Easy|
