@@ -228,6 +228,7 @@ LeetCode
 |867|[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)|[Java](./algorithms/java/src/easy/TransposeMatrix/TransposeMatrix.java)|Easy|
 |832|[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)|[Java](./algorithms/java/src/easy/FlippingAnImage/FlippingAnImage.java)|Easy|
 |827|[Making A Large Island](https://leetcode.com/problems/making-a-large-island/)|[Java](./algorithms/java/src/hard/MakingALargeIsland/MakingALargeIsland.java)|Hard|
+|821|[Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/)|[Java](./algorithms/java/src/easy/ShortestDistanceToACharacter/ShortestDistanceToACharacter.java)|Easy|
 |804|[Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/)|[Java](./algorithms/java/src/easy/UniqueMorseCodeWords/UniqueMorseCodeWords.java)|Easy|
 |802|[Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)|[Java](./algorithms/java/src/medium/FindEventualSafeStates/FindEventualSafeStates.java)|Medium|
 |684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/)|[Java](./algorithms/java/src/medium/RedundantConnection/RedundantConnection.java)|Medium|
